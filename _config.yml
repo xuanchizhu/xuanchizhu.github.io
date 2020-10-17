@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Jackpon
+title: xuanchi_zhu
 subtitle:
-description: "a young idler, an old beggar !"
-author: Jackpon
+description: "a coder"
+author: xuanchi_zhu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: http://jackpon.cn
+url: 
 baseurl:
 permalink: pretty
 
@@ -78,8 +78,7 @@ plugins:
 favicon: /assets/images/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
-
+keywords: 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.

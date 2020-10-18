@@ -5,6 +5,7 @@ layout: page
 
 Welcome to Xuanchi Zhu's Blog ！
 ----------------------------
-这是我的个人博客，当初建此网站的初心是为了整理自己的编程过程，可以当做是我的电子日志吧。
+这是我的博客，本着当成云笔记的初心到建的，Fork了Jackpon的Blog，自己以后会学着改改样式。
 
-https://github.com/xuanchizhu
+
+我的主页：https://github.com/xuanchizhu

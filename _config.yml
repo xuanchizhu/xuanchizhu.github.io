@@ -214,11 +214,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/Jackpon
-  ZhiHu: https://www.zhihu.com/people/Jackpon/activities
-  CSDN: https://blog.csdn.net/jackponwong
-  LeetCode: http://jackpon.cn/site/
-  404公益@宝贝回家: http://jackpon.cn/404.html
+  GitHub: https://github.com/xuanchizhu
+  ZhiHu: https://www.zhihu.com/people/zhu-xuan-chi-52-35
+ 
   
 # Social Links Icons
 # Icon Mapping:
@@ -231,10 +229,6 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   ZhiHu: joomla
-  CSDN: joomla
-  LeetCode: drupal
-  404公益@宝贝回家: child
-  #Weibo: weibo
 
 
 # Sidebar Avatar

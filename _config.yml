@@ -118,11 +118,9 @@ menu:
   home: / 
   about: /about/
   categories: /categories/
-  tags: /tags/
   archives: /archives/
   #search: 
   #sitemap: /sitemap.xml
-  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
